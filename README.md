@@ -1,6 +1,6 @@
 # Dip Dive
 
-This project will take a deep dive into stock market dips and corrections. A market decline of over 10% is considered a correction and a decline of over 20% is considered a bear market. [[3](https://www.schwab.com/resource-center/insights/content/market-correction-what-does-it-mean)] The goal is to gain a better understanding of market corrections so that we are better-equipped, if not prepared, for any future corrections. In this analysis, I will attempt to answer the following questions:
+This project will take a deep dive into stock market dips and corrections. A market decline of over 10% is considered a correction and a decline of over 20% is considered a bear market [[3](https://www.schwab.com/resource-center/insights/content/market-correction-what-does-it-mean)]. The goal is to gain a better understanding of market corrections so that we are better-equipped, if not prepared, for any future corrections. In this analysis, I will attempt to answer the following questions:
 
 1. How often do corrections occur?
 2. How long do they usually last?
@@ -16,9 +16,9 @@ The (daily) historical data of each stock is contained in its own CSV file with 
 
 ## Sources
 
-1. [Kaggle - Data](https://www.kaggle.com/paultimothymooney/stock-market-data)
-2. [Investopedia - Nasdaq](https://www.investopedia.com/terms/n/nasdaq.asp)
-3. [Schwab - Market Correction: What Does It Mean?](https://www.schwab.com/resource-center/insights/content/market-correction-what-does-it-mean)
+1. [Kaggle | Data](https://www.kaggle.com/paultimothymooney/stock-market-data)
+2. [Investopedia | Nasdaq](https://www.investopedia.com/terms/n/nasdaq.asp)
+3. [Schwab | Market Correction: What Does It Mean?](https://www.schwab.com/resource-center/insights/content/market-correction-what-does-it-mean)
 
 ## License
 
